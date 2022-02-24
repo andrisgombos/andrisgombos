@@ -2,7 +2,7 @@ Hi!
 
 I'm Andris, aspiring Full-Stack Developer.
 
-Especially interested in design, blockchains, games. If I'm not online I'm probably hiking around somewhere ⛰️.
+If I'm not online I'm probably hiking around somewhere ⛰️.
 
 Currently looking for Junior Front-end / Full-stack postions or Internships.
 
