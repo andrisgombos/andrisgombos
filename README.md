@@ -2,9 +2,9 @@ Hi!
 
 I'm Andris, aspiring Full-Stack Developer.
 
-If I'm not online I'm probably hiking around somewhere ⛰️.
+https://andrasgombos.com/
 
-Currently looking for Junior Front-end / Full-stack postions or Internships.
+If I'm not online I'm probably hiking around somewhere ⛰️.
 
 📫 me @ andrisgombos@gmail.com
 
