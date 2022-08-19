@@ -1,6 +1,6 @@
 Hi!
 
-I'm Andris, aspiring Full-Stack Developer.
+I'm Andris, Junior Full-Stack Developer.
 
 https://andrasgombos.com/
 
