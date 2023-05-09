@@ -2,7 +2,7 @@ Hi!
 
 I'm Andris, an enthusiastic Web Developer.
 
-If I'm not online I'm probably hiking around somewhere ⛰️.
+If I'm not online I'm probably hiking around somewhere.
 
 📫 me @ andrisgombos@gmail.com
 
