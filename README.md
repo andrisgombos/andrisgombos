@@ -1,7 +1,6 @@
 Hi!
 
 I'm Andris, an enthusiastic Web Developer.
-https://andrasgombos.com/
 
 If I'm not online I'm probably hiking around somewhere ⛰️.
 
