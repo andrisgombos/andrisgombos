@@ -1,6 +1,6 @@
 Hi!
 
-I'm Andras and I work in mostly frond-end stuff.
+I'm Andras and I work in mostly front-end stuff.
 
 If I'm not online I'm probably hiking around somewhere.
 
